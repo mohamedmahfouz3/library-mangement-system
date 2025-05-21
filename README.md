@@ -42,7 +42,7 @@ A simple Library Management System built using **Node.js** and **Express**. This
 
 4. **Start the application**
    ```bash
-   npm start
+   npm run dev
    ```
    The server should now be running at `http://localhost:3000` (or your configured port).
 
